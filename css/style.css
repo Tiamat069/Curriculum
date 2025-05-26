@@ -152,7 +152,7 @@ body {
     border-radius: 50%;
 }
 
-.experience-item, .education-item {
+.experience-item, .education-item, .proficional-item {
     background: #f8f9fa;
     padding: 25px;
     border-radius: 15px;
@@ -162,7 +162,7 @@ body {
     position: relative;
 }
 
-.experience-item:hover, .education-item:hover {
+.experience-item:hover, .education-item:hover, .proficional-item:hover {
     transform: translateX(10px);
     box-shadow: 0 10px 25px rgba(0,0,0,0.1);
 }
